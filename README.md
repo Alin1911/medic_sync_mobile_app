@@ -124,6 +124,6 @@ For production readiness:
 ## Future improvements
 
 - Introduce state management (e.g., Provider/BLoC/Riverpod) for scalability
-- Add robust test coverage (unit, widget, integration)
+- Add robust test coverage (unit, widget and integration)
 - Centralize API configuration and environment switching (dev/staging/prod)
 - Improve error handling and offline support
